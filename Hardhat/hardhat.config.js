@@ -4,7 +4,7 @@ require("dotenv").config();
 const { vars } = require("hardhat/config");
 
 module.exports = {
-  solidity: "0.8.20",
+  solidity: "0.8.24",
   paths: {
     sources: "./contracts",
   },
